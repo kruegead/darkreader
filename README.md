@@ -5,13 +5,13 @@
 
 <h2 align="center">Dark Reader</h2>
 <br/>
-<p align="center">Dark Reader is an <strong>open-source</strong> MIT-licensed <strong>browser extension</strong> that is designed to analyze web pages. Based on its analysis, Dark Reader will generate a dark mode that aims to <strong>reduce the eyestrain</strong> of the user. Dark Reader is <strong>feature-rich</strong> and can be configured in many ways [throughout the UI](https://github.com/darkreader/darkreader/blob/master/documentation/DOCUMENTATION.md).</p>
+<p align="center">Dark Reader is an <strong>open-source</strong> MIT-licensed <strong>browser extension</strong> that is designed to analyze web pages. Based on its analysis, Dark Reader will generate a dark mode that aims to <strong>reduce the eyestrain</strong> of the user. Dark Reader is <strong>feature-rich</strong> and can be configured in many ways throughout the UI.</p>
 <br/>
 <br/>
 
 ## Questions
 
-Most questions can be answered by reading the [help page](https://darkreader.org/help/).
+Most questions can be answered by reading the [help page](https://darkreader.org/help/) or the [interface documentation](https://github.com/darkreader/darkreader/blob/master/documentation/DOCUMENTATION.md).
 If the help page doesn't answer your question, open up a new [discussion](https://github.com/darkreader/darkreader/discussions).
 
 ## How to contribute
